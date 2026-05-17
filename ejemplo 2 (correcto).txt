@@ -1,0 +1,4 @@
+pedido compraFinal {
+    remera : 5 : 1500 ;
+    camisa : 12 : 35000 ;
+}

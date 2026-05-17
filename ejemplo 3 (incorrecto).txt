@@ -1,0 +1,5 @@
+pedido compraInicial {
+    remera : 2 : 1500 ;
+    pantalon : 1 : 3500 ;
+    buzo 3 : 5000 ;
+}}
