@@ -1,6 +1,6 @@
-# Analizador Mini-C
+# Analizador
 
-Este proyecto implementa un analizador léxico y sintáctico utilizando ANTLR4 y Node.js. Reconoce una porción reducida del lenguaje C (Mini-C), construye el árbol sintáctico, genera una tabla de tokens, y traduce el código a JavaScript para su ejecución.
+Este proyecto implementa un analizador léxico y sintáctico utilizando ANTLR4 y Node.js. Reconoce una gramatica dada, construye el árbol sintáctico, genera una tabla de tokens.
 
 ##  Requisitos
 
