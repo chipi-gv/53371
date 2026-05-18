@@ -25,7 +25,7 @@ npm install
 3. Generar los archivos ANTLR:
 
 ```bash
-java -jar antlr-4.13.2-complete.jar -Dlanguage=JavaScript -o generated MiAnalizador.g4
+java -jar antlr-4.13.2-complete.jar -Dlanguage=JavaScript -o generated SimpleLang.g4
 ```
 
 ##  Ejecución
