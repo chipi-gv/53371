@@ -16,9 +16,11 @@ Este proyecto implementa un analizador léxico y sintáctico utilizando ANTLR4 y
 git clone https://github.com/chipi-gv/53371.git
 ```
 
-2. Instalar las dependencias:
+2. Entrar a La Carpeta e Instalar las dependencias:
 
 ```bash
+cd analizador
+code .
 npm install
 ```
 
